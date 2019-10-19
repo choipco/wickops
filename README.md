@@ -1,2 +1,3 @@
-# wickops
-ウィクオプス
+# ウィクオプス
+wickops
+
