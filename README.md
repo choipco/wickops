@@ -7,8 +7,6 @@ wickops or オペレーションズ is the operations
 
 ペタ - pehta - チェ　- codename (tau)
 
-ネイサン - neisan - ボーリン - product
-
 
 Lead Design - フラフクスラナ　
 
