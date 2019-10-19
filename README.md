@@ -5,7 +5,7 @@ wickops or オペレーションズ is the operations
 
 ジャスティン - jasutin - クーパー - codename 造り手 (tsu)
 
-ペタ - pehta - チェ　- codename
+ペタ - pehta - チェ　- codename (tau)
 
 ネイサン - neisan - ボーリン - product
 
