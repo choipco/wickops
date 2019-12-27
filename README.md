@@ -21,7 +21,6 @@ Volume Price Analysis Model - アンナ・クーリング
 Options Trading Unit - リー・ローウェル
 
 
-Testing enhancement block script for future design output - 우리 앞에 펼쳐진 광경은 진정 장엄했다
 
 
 
